@@ -1,4 +1,4 @@
-package exception;
+package org.zhant.exception;
 
 import jakarta.ws.rs.core.Response;
 import jakarta.ws.rs.ext.ExceptionMapper;

@@ -1,4 +1,4 @@
-package models;
+package org.zhant.models;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.persistence.*;

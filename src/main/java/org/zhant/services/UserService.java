@@ -1,8 +1,8 @@
-package services;
+package org.zhant.services;
 
-import exception.UserNotFound;
+import org.zhant.exception.UserNotFound;
 import jakarta.enterprise.context.ApplicationScoped;
-import models.User;
+import org.zhant.models.User;
 
 import java.util.List;
 import java.util.UUID;

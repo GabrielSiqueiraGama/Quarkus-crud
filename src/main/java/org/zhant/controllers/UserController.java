@@ -4,8 +4,8 @@ import jakarta.transaction.Transactional;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
-import models.User;
-import services.UserService;
+import org.zhant.models.User;
+import org.zhant.services.UserService;
 import java.util.UUID;
 
 @Path("/users")//Show the path on routes
